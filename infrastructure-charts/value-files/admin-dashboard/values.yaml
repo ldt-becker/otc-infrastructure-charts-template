@@ -15,12 +15,12 @@ defaultDashboard:
       enabled: "false"
     elasticsearch:
       enabled: "true"
-      href: "elasticsearch"
+      href: "kibana/app/elasticsearch"
       imgSrc: "elasticsearch.png"
       imgAlt: "Elasticsearch"
     kibana:
       enabled: "true"
-      href: "kibana/app/discover/test"
+      href: "kibana/app/discover"
       imgSrc: "definitly_not_kibana.svg"
       imgAlt: "Kibana"
     vault:
