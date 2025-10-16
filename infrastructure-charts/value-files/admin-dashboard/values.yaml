@@ -20,7 +20,7 @@ defaultDashboard:
       imgAlt: "Elasticsearch"
     kibana:
       enabled: true
-      href: "kibana/app/discover"
+      href: "kibana/app/discover/test"
       imgSrc: "definitly_not_kibana.svg"
       imgAlt: "Kibana"
     vault:
