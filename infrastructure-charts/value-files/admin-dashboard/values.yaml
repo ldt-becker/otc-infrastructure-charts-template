@@ -14,7 +14,7 @@ defaultDashboard:
     prometheus:
       enabled: "false"
     elasticsearch:
-      enabled: "true"
+      enabled: true
       href: "elasticsearch"
       imgSrc: "elasticsearch.png"
       imgAlt: "Elasticsearch"
