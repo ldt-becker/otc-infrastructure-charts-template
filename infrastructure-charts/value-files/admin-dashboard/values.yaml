@@ -14,12 +14,12 @@ defaultDashboard:
     prometheus:
       enabled: "false"
     elasticsearch:
-      enabled: true
+      enabled: "true"
       href: "elasticsearch"
       imgSrc: "elasticsearch.png"
       imgAlt: "Elasticsearch"
     kibana:
-      enabled: true
+      enabled: "true"
       href: "kibana/app/discover/test"
       imgSrc: "definitly_not_kibana.svg"
       imgAlt: "Kibana"
